@@ -1,0 +1,128 @@
+
+
+.header{
+
+background-image: url('../images/hero3-2.jpg');
+text-align: center;
+height: 600px;
+padding-top: 100px;
+color: white;
+
+}
+.align-left{
+	text-align: right;
+}
+
+
+/*.text-align{
+	text-align: center;
+	padding: 30px 30px 30px 30px;
+	background*/
+}
+.text-center{
+	padding:40px 40px 40px 40px; 
+	
+}
+
+
+p {
+  text-align: center;
+}
+p span.gauche {
+  float: left;
+}
+p span.droite {
+  float: right;
+}
+
+.right-container{
+	float: right;
+}
+.left-container{
+	float: left;
+}
+.center{
+	float: center;
+}
+.footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin-top: 100px;
+}
+.footer a{
+	color: white;
+}
+
+.btn-primary{
+	background-color: rgb(216, 112, 2);
+	border-color: #D87002;
+
+}
+
+.btn-primary:hover{
+	background-color: #D87002;
+}
+
+.container4{
+	width: 100%;
+	height: 500px;
+	background-color: rgb(97,120, 110);
+	margin-top: 100px;
+	margin-bottom: 100px;
+	padding-bottom: 700px;
+	color: white;
+}
+
+.main{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-left: 50px;
+	margin-right: 30px;
+	text-align: center;
+
+}
+
+.prési{
+	margin-top: 100px;
+	margin-left: 10px;
+	margin-bottom: 30px;
+
+}
+
+.container2{
+	text-align: left;
+	margin-top: 60px;
+	margin-right: 20px;
+	margin-bottom: 60px;
+}
+
+.papa{
+	margin-top: 80px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+.container1{
+	margin-top: 50px;
+	margin-left: 30px;
+	background-color: rgb(245, 245, 245);
+}
+
+.maman{
+	margin-left: 100px;
+}
+
+.container5{
+	text-align: center;
+}
+
+.fabien{
+	padding-bottom: 30px;
+}
+
+ .img2{
+	background-color: rgb(97,120, 110);
+}
